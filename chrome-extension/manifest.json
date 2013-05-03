@@ -8,9 +8,6 @@
 	"16": "images/logo_small.png",
 	"128": "images/swagger-round.png"
 },
-  "permissions": [
-    "tabs", "http://*/*", "https://*/*"
-  ],
 "app": {
     "launch": {
       "local_path": "index.html"

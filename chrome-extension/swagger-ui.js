@@ -2351,7 +2351,7 @@ var Docs = {
 
 $(function () {
             window.swaggerUi = new SwaggerUi({
-                discoveryUrl:"http://petstore.swagger.wordnik.com/api/api-docs.json",
+                discoveryUrl:"http://api.wordnik.com/v4/resources.json",
                 apiKey:"",
                 dom_id:"swagger-ui-container",
                 supportHeaderParams: false,
